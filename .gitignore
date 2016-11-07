@@ -1,0 +1,7 @@
+target
+.classpath
+.cache-main
+.project
+bin
+project/target
+.DS_Store
